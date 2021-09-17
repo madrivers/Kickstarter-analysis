@@ -16,9 +16,10 @@
 
 # 2.  Kickstarter Challege focused on Theatre Campaigns 
 * Kick starter Challenge.zip contains excel data including Tables and graphs
-! [Pivot Table Over Time](https://github.com/madrivers/Contributing_Files/blob/main/time%20pivot.png)
+
+![Pivot Table Over Time](https://github.com/madrivers/Contributing_Files/blob/main/time%20pivot.png)
 ---
-! [Outcome by Goal Table](https://github.com/madrivers/Contributing_Files/blob/main/Outcome%20by%20Goal%20Table.png)
+![Outcome by Goal Table](https://github.com/madrivers/Contributing_Files/blob/main/Outcome%20by%20Goal%20Table.png)
 ---
 ---
 * Write Up.docx includes write up with findings and recommendations
