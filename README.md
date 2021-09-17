@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
-Performing Analysis on Kickstarter Data to uncover trends.  This analysis includes visuals of data dispersion as well as high level statistical data
+1.  Performing an Analysis on Kickstarter Data to uncover trends.  This analysis includes visuals of data dispersion as well as high level statistical data
+2.  Performing an Analysis as a challege to evaluate successful Theatre Campgaigns using time and goals as variables
 ---
 * The mean of a succesful campaign in the US is just over $5K, the same data point of a failed campaign was $10K.  Lower budgeting goals were correlated with full pledge amounts.  The recommendation would be to target a goal of $5K or lower for a successful campaing.
 
